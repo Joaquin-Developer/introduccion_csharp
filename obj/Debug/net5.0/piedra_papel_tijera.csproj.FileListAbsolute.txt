@@ -1,0 +1,16 @@
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera.deps.json
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera.runtimeconfig.json
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera.runtimeconfig.dev.json
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera.dll
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/ref/piedra_papel_tijera.dll
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/bin/Debug/net5.0/piedra_papel_tijera.pdb
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.csproj.AssemblyReference.cache
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.AssemblyInfoInputs.cache
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.AssemblyInfo.cs
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.csproj.CoreCompileInputs.cache
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.dll
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/ref/piedra_papel_tijera.dll
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.pdb
+/home/joaquin/Documentos/ProyectosPersonales/Algoritmos/piedra_papel_tijera/obj/Debug/net5.0/piedra_papel_tijera.genruntimeconfig.cache
